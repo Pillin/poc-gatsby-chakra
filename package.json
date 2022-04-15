@@ -1,11 +1,11 @@
 {
-  "name": "test2",
+  "name": "gatsby-auth0-chakra",
   "version": "1.0.0",
   "private": true,
-  "description": "test2",
+  "description": "",
   "author": "Pillippa Perez Pons",
   "keywords": [
-    "gatsby"
+    "chakra"
   ],
   "scripts": {
     "develop": "gatsby develop",
@@ -32,6 +32,8 @@
     "gatsby-plugin-sharp": "^4.11.1",
     "gatsby-plugin-sitemap": "^5.11.1",
     "gatsby-source-filesystem": "^4.11.1",
+    "gatsby-theme-auth0": "1.1.1",
+    "gatsby-theme-auth0-ts": "1.0.7",
     "gatsby-transformer-sharp": "^4.11.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
